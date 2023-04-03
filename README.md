@@ -10,7 +10,7 @@ Jittakorn Chanthasi (623021044-1)
 - การใช้ screen
 - jupyter notebook
 - visual environment anaconda
-### lecture(4-6) ([note](Deep learning.pdf)]
+### lecture(4-6) ([note](deep_learning.pdf))
 - การเรียนรู้ NN
 - โครงสร้าง deep learning
 - freeze-unfreeze
