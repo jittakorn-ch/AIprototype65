@@ -20,5 +20,5 @@ Jittakorn Chanthasi (623021044-1)
 
 # github project
 - [web page](https://naruemonssp.github.io/VoxelPage/)
-- [web app](https://github.com/jittakorn-ch/WebapplicationVoxel)
+- [webapp github](https://github.com/jittakorn-ch/WebapplicationVoxel)
 
