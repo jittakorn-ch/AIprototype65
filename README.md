@@ -19,6 +19,6 @@ Jittakorn Chanthasi (623021044-1)
 
 
 # github project
-- [web page]()
+- [web page](https://github.com/jittakorn-ch/voxel_webpage/blob/main/index.html)
 - [web app](https://github.com/jittakorn-ch/WebapplicationVoxel)
 
